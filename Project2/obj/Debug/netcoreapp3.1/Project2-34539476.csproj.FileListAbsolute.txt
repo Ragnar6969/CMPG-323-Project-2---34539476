@@ -141,3 +141,12 @@ C:\Users\Anonymous\Desktop\Werk\CMPG 323\API\CMPG-323-Project-2---34539476\Proje
 C:\Users\Anonymous\Desktop\Werk\CMPG 323\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.dll
 C:\Users\Anonymous\Desktop\Werk\CMPG 323\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.pdb
 C:\Users\Anonymous\Desktop\Werk\CMPG 323\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\Werk\CMPG 323\Repositories\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.csproj.AssemblyReference.cache
+C:\Users\Anonymous\Desktop\Werk\CMPG 323\Repositories\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\Werk\CMPG 323\Repositories\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\Werk\CMPG 323\Repositories\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\Werk\CMPG 323\Repositories\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\Werk\CMPG 323\Repositories\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anonymous\Desktop\Werk\CMPG 323\Repositories\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anonymous\Desktop\Werk\CMPG 323\Repositories\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.dll
+C:\Users\Anonymous\Desktop\Werk\CMPG 323\Repositories\API\CMPG-323-Project-2---34539476\Project2\obj\Debug\netcoreapp3.1\Project2-34539476.pdb
