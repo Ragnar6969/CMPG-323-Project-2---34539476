@@ -9663,9 +9663,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anonymous\\Desktop\\Werk\\CMPG 323\\API\\CMPG-323-Project-2---34539476\\Project2\\Project2.csproj",
-      "projectName": "Project2",
-      "projectPath": "C:\\Users\\Anonymous\\Desktop\\Werk\\CMPG 323\\API\\CMPG-323-Project-2---34539476\\Project2\\Project2.csproj",
+      "projectUniqueName": "C:\\Users\\Anonymous\\Desktop\\Werk\\CMPG 323\\API\\CMPG-323-Project-2---34539476\\Project2\\Project2-34539476.csproj",
+      "projectName": "Project2-34539476",
+      "projectPath": "C:\\Users\\Anonymous\\Desktop\\Werk\\CMPG 323\\API\\CMPG-323-Project-2---34539476\\Project2\\Project2-34539476.csproj",
       "packagesPath": "C:\\Users\\Anonymous\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Anonymous\\Desktop\\Werk\\CMPG 323\\API\\CMPG-323-Project-2---34539476\\Project2\\obj\\",
       "projectStyle": "PackageReference",
